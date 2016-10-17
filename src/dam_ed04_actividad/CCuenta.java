@@ -6,7 +6,9 @@
 /**
  * Tarea para ED04 José Ignacio Navarro Arranz
  */
-
+/**
+ * @author  José Ignacio Navarro
+ */
 
 package dam_ed04_actividad;
 
@@ -23,7 +25,7 @@ public class CCuenta {
     public CCuenta()
     {
     }
-
+//Incliuimos el siguiente comentario para realizar un nuevo commit
     public CCuenta(String nom, String cue, double sal, double tipo)
     {
         nombre =nom;
